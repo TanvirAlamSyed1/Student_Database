@@ -1,0 +1,14 @@
+C:\Users\tanvi\Documents\Career\Tuition\Saaima\week 2\student_database\student_database\bin\Debug\net6.0\student_database.exe
+C:\Users\tanvi\Documents\Career\Tuition\Saaima\week 2\student_database\student_database\bin\Debug\net6.0\student_database.deps.json
+C:\Users\tanvi\Documents\Career\Tuition\Saaima\week 2\student_database\student_database\bin\Debug\net6.0\student_database.runtimeconfig.json
+C:\Users\tanvi\Documents\Career\Tuition\Saaima\week 2\student_database\student_database\bin\Debug\net6.0\student_database.dll
+C:\Users\tanvi\Documents\Career\Tuition\Saaima\week 2\student_database\student_database\bin\Debug\net6.0\student_database.pdb
+C:\Users\tanvi\Documents\Career\Tuition\Saaima\week 2\student_database\student_database\obj\Debug\net6.0\student_database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanvi\Documents\Career\Tuition\Saaima\week 2\student_database\student_database\obj\Debug\net6.0\student_database.AssemblyInfoInputs.cache
+C:\Users\tanvi\Documents\Career\Tuition\Saaima\week 2\student_database\student_database\obj\Debug\net6.0\student_database.AssemblyInfo.cs
+C:\Users\tanvi\Documents\Career\Tuition\Saaima\week 2\student_database\student_database\obj\Debug\net6.0\student_database.csproj.CoreCompileInputs.cache
+C:\Users\tanvi\Documents\Career\Tuition\Saaima\week 2\student_database\student_database\obj\Debug\net6.0\student_database.dll
+C:\Users\tanvi\Documents\Career\Tuition\Saaima\week 2\student_database\student_database\obj\Debug\net6.0\refint\student_database.dll
+C:\Users\tanvi\Documents\Career\Tuition\Saaima\week 2\student_database\student_database\obj\Debug\net6.0\student_database.pdb
+C:\Users\tanvi\Documents\Career\Tuition\Saaima\week 2\student_database\student_database\obj\Debug\net6.0\student_database.genruntimeconfig.cache
+C:\Users\tanvi\Documents\Career\Tuition\Saaima\week 2\student_database\student_database\obj\Debug\net6.0\ref\student_database.dll
